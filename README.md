@@ -1,4 +1,4 @@
-# Chào Mừng bạn đến với Project hệ thống phòng khám tư nhân “Huflit Clinic”
+# Chào Mừng Bạn Đến Với Project Hệ Thống Phòng Khám Tư Nhân “Huflit Clinic”
   Hệ thống phòng khám tư nhân “Huflit Clinic” là một Website trực tuyến được thiết kế để cung cấp thông tin và dịch vụ y tế cho khách hàng và quản lý danh sách hồ sơ bệnh nhân, danh sách lịch hẹn cho nhân viên y tế.
 -  Website này thường được phát triển bởi một hệ thống phòng khám tư nhân hoặc một nhóm các phòng khám tư nhân hoạt động dưới một thương hiệu chung.
 Hệ thống phòng khám tư nhân cung cấp một giao diện dễ sử dụng, tính năng đa dạng và thông tin chi tiết để đáp ứng nhu cầu của người bệnh và nhân viên y tế. Nó tạo ra một nền tảng tiện lợi và hiệu quả để bệnh nhân có thể tìm thấy thông tin về các dịch vụ y tế mà phòng khám cung cấp, bao gồm chuyên khoa khám bệnh, xét nghiệm, chẩn đoán hình ảnh nếu có. 
